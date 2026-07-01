@@ -39,7 +39,8 @@ The dashboard visualizes:
 - Percent of population infected by country (world map)
 - Percent of population infected over time for selected countries (United States, United Kingdom, India, Mexico, China), including a forecasted trend
 
-![COVID-19 Dashboard](Covid19.png), (Covid19DeathByContinent.png)
+![COVID-19 Dashboard](Covid19.png), 
+![COVID-19 Deaths by Continent](Covid19DeathByContinent.png)
 
 ---
 
