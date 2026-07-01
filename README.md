@@ -6,16 +6,16 @@ Each project takes raw data through querying, transformation, and analysis in SQ
 ## 📁 Repository Structure
 
 ```
-├── CovidPortfolioProject.sql              # COVID-19 data exploration (SQL Server)
-├── Covid19.png                            # Tableau dashboard screenshot - COVID-19 analysis
-├── Data_Cleaning_NashvilleHousing.sql     # Nashville Housing data cleaning (SQL Server)
-└── NshvilleHousing_Overview.png           # Tableau dashboard screenshot - Nashville Housing
+├── Data_Exploration_Covid19.sql                     # COVID-19 data exploration (SQL Server)
+├── Covid19.png, Covid19DeathByContinent.png         # Tableau dashboard screenshot - COVID-19 analysis
+├── Data_Cleaning_NashvilleHousing.sql               # Nashville Housing data cleaning (SQL Server)
+└── NshvilleHousingOverview.png                      # Tableau dashboard screenshot - Nashville Housing
 ```
 
 
 ## 🦠 Project 1: COVID-19 Data Exploration
 
-**Files:** `CovidPortfolioProject.sql`, `Covid19.png`
+**Files:** `Data_Exploration_Covid19.sql `, `Covid19.png` and `Covid19DeathByContinent.png`
 
 An exploratory analysis of global COVID-19 case, death, and vaccination data using T-SQL, culminating in a Tableau dashboard.
 
@@ -39,13 +39,13 @@ The dashboard visualizes:
 - Percent of population infected by country (world map)
 - Percent of population infected over time for selected countries (United States, United Kingdom, India, Mexico, China), including a forecasted trend
 
-![COVID-19 Dashboard](Covid19.png)
+![COVID-19 Dashboard](Covid19.png), (Covid19DeathByContinent.png)
 
 ---
 
 ## 🏠 Project 2: Nashville Housing Data Cleaning
 
-**Files:** `Data_Cleaning_NashvilleHousing.sql`, `NshvilleHousing_Overview.png`
+**Files:** `Data_Cleaning_NashvilleHousing.sql`, `NshvilleHousingOverview.png`
 
 A data cleaning project on the Nashville Housing dataset using T-SQL, preparing raw property sales data for analysis and visualization in Tableau.
 
