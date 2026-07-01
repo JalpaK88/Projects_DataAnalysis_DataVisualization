@@ -70,7 +70,7 @@ The dashboard visualizes:
 - Median sale price by land use group
 - Relationship between acreage and sale price
 
-![Nashville Housing Dashboard](NshvilleHousing_Overview.png)
+![Nashville Housing Dashboard](NshvilleHousingOverview.png)
 
 ---
 
